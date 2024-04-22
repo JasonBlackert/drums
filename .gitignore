@@ -1,5 +1,6 @@
 .pybuild
-drums
+source/drums-mqtt/debian/drums
+source/drums-mqtt/debian/files
 *.debhelper
 *-stamp
 *.debhelper
