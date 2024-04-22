@@ -21,7 +21,7 @@ def test():
     print("Hello Test!")
 
 
-class Insight:
+class Drums:
     def __init__(
         self,
         host: str = "10.0.0.18",
@@ -72,5 +72,5 @@ class Insight:
 
 
 if __name__ == "__main__":
-    insight = Insight()
-    insight.main()
+    drums = Drums()
+    drums.main()
