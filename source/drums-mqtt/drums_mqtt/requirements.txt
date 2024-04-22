@@ -1,0 +1,6 @@
+paho-mqtt==1.6.1
+influxdb==5.3.1
+PyQt5==5.15.9
+PyQt5-sip==12.11.1
+opencv-python>=4.5.1.48
+matplotlib>=3.6.3
