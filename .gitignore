@@ -5,3 +5,4 @@ drums
 *.debhelper
 *.substvars
 *_amd64.*
+*.deb
