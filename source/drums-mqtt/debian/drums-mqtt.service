@@ -1,0 +1,10 @@
+[Unit]
+Description=Dog Run Monitoring System 'drums'
+Requires=mosquitto.service
+
+[Service]
+ExecStart=/usr/bin/drums-mqtt
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
