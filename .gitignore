@@ -1,0 +1,7 @@
+.pybuild
+drums
+*.debhelper
+*-stamp
+*.debhelper
+*.substvars
+*_amd64.*
